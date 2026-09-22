@@ -1921,7 +1921,7 @@ for the Linux desktop
 
 - [**3142**星][3m] [PS] [fireeye/commando-vm](https://github.com/fireeye/commando-vm) Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com
 - [**1748**星][2m] [PS] [fireeye/flare-vm](https://github.com/fireeye/flare-vm) 火眼发布用于 Windows 恶意代码分析的虚拟机：FLARE VM
-- [**76**星][26d] [Py] [inquest/python-sandboxapi](https://github.com/inquest/python-sandboxapi) Minimal, consistent Python API for building integrations with malware sandboxes.
+- [**76**星][26d] [Py] [inquest/python-sandboxapi](https://github.com/inquest/python-sandboxapi) 用于构建恶意软件沙箱集成的简洁且一致的 Python API。
 
 
 
