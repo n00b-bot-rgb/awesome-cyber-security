@@ -1914,6 +1914,7 @@ for the Linux desktop
 
 - [**3142**Star][3m] [PS] [fireeye/commando-vm](https://github.com/fireeye/commando-vm) Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com
 - [**1748**Star][2m] [PS] [fireeye/flare-vm](https://github.com/fireeye/flare-vm) FireEye Labs Advanced Reverse Engineering
+- [**76**Star][26d] [Py] [inquest/python-sandboxapi](https://github.com/inquest/python-sandboxapi) Minimal, consistent Python API for building integrations with malware sandboxes.
 
 
 
